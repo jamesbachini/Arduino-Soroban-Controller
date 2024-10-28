@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "johnny-five": "^2.1.0"
+    "johnny-five": "^2.1.0",
+    "stellar-sdk": "^12.3.0"
   }
 }
